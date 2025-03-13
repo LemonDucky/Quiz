@@ -34,7 +34,7 @@ An advanced **Tkinter-based Quiz Application** supporting **Images, PDFs**, and 
 
 1. **Clone the repo:**
    ```bash
-   git clone https://github.com/your-username/ImagePDFQuizApp.git
+   git clone https://github.com/your-username/QuizApp.git
    cd ImagePDFQuizApp
 
 2. **Install dependencies**  
