@@ -36,3 +36,43 @@ An advanced **Tkinter-based Quiz Application** supporting **Images, PDFs**, and 
    git clone https://github.com/your-username/ImagePDFQuizApp.git
    cd ImagePDFQuizApp
 
+2. **Install dependencies**
+   pip install -r requirements.txt
+
+3. **▶️ Run the App**
+   python main.py
+
+---
+
+🛠️ Usage
+Click on "Upload Questions" to load your image or PDF files.
+Set the timer duration as needed.
+Use Next/Previous to navigate.
+Mark questions for review using "Mark for Review".
+Submit when done or let the timer auto-submit.
+
+---
+
+💻 Tech Stack
+Python 3.x
+Tkinter (GUI)
+PyMuPDF (PDF rendering)
+Pillow (Image handling)
+
+---
+
+📜 License
+This project is licensed under the GNU General Public License v3.0 (GPL-3.0).
+You are free to use, modify, and distribute this software, provided that any distributed versions or derivatives remain under the same license.
+
+See the LICENSE file for details.
+
+---
+
+🤝 Contributing
+Contributions are welcome! Feel free to fork the repo and submit pull requests to improve the app.
+
+---
+
+📧 Contact
+For suggestions, feedback, or collaborations, reach out via GitHub issues or pull requests.
