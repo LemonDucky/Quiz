@@ -1,0 +1,7 @@
+# Contributing Guidelines
+
+- Fork the repo and create a feature branch.
+- Make necessary changes and commit.
+- Submit a pull request describing your changes.
+
+Follow PEP8 guidelines for Python code.
