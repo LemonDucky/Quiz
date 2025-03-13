@@ -84,5 +84,5 @@ Contributions are welcome! Feel free to fork the repo and submit pull requests t
 
 ---
 
-📧 Contact
+## 📧 Contact
 For suggestions, feedback, or collaborations, reach out via GitHub issues or pull requests.
