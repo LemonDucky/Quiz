@@ -45,12 +45,14 @@ An advanced **Tkinter-based Quiz Application** supporting **Images, PDFs**, and 
 
 ---
 
-🛠️ Usage
-1.Click on "Upload Questions" to load your image or PDF files.
-2.Set the timer duration as needed.
-3.Use Next/Previous to navigate.
-4.Mark questions for review using "Mark for Review".
-5.Submit when done or let the timer auto-submit.
+## 🛠️ Usage
+
+1. Click on **"Upload Questions"** to load your image or PDF files.  
+2. Set the **timer duration** as needed.  
+3. Use **Next/Previous** to navigate between questions.  
+4. **Mark questions for review** using the "Mark for Review" button.  
+5. **Submit** when done or let the timer **auto-submit**.
+
 
 ---
 
