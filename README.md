@@ -39,17 +39,18 @@ An advanced **Tkinter-based Quiz Application** supporting **Images, PDFs**, and 
 2. **Install dependencies**
    pip install -r requirements.txt
 
-3. **▶️ Run the App**
+
+4. **▶️ Run the App**
    python main.py
 
 ---
 
 🛠️ Usage
-Click on "Upload Questions" to load your image or PDF files.
-Set the timer duration as needed.
-Use Next/Previous to navigate.
-Mark questions for review using "Mark for Review".
-Submit when done or let the timer auto-submit.
+1.Click on "Upload Questions" to load your image or PDF files.
+2.Set the timer duration as needed.
+3.Use Next/Previous to navigate.
+4.Mark questions for review using "Mark for Review".
+5.Submit when done or let the timer auto-submit.
 
 ---
 
