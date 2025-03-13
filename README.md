@@ -25,6 +25,7 @@ An advanced **Tkinter-based Quiz Application** supporting **Images, PDFs**, and 
 - ✅ Save/Load complete session
 - ✅ Modern, intuitive UI
 
+
 ---
 
 ## 🚀 Getting Started
@@ -36,12 +37,15 @@ An advanced **Tkinter-based Quiz Application** supporting **Images, PDFs**, and 
    git clone https://github.com/your-username/ImagePDFQuizApp.git
    cd ImagePDFQuizApp
 
-2. **Install dependencies**
+2. **Install dependencies**  
+   ```bash
    pip install -r requirements.txt
 
 
-4. **▶️ Run the App**
+3. **▶️ Run the App**  
+   ```bash
    python main.py
+
 
 ---
 
@@ -56,24 +60,27 @@ An advanced **Tkinter-based Quiz Application** supporting **Images, PDFs**, and 
 
 ---
 
-💻 Tech Stack
-Python 3.x
-Tkinter (GUI)
-PyMuPDF (PDF rendering)
-Pillow (Image handling)
+## 💻 Tech Stack
+
+- **Python 3.x**
+- **Tkinter** (GUI)
+- **PyMuPDF** (PDF rendering)
+- **Pillow** (Image handling)
+
 
 ---
 
-📜 License
-This project is licensed under the GNU General Public License v3.0 (GPL-3.0).
-You are free to use, modify, and distribute this software, provided that any distributed versions or derivatives remain under the same license.
+## 📜 License  
+This project is licensed under the **GNU General Public License v3.0 (GPL-3.0)**.  
+You are free to use, modify, and distribute this software, provided that any distributed versions or derivatives remain under the same license.  
 
-See the LICENSE file for details.
+See the [LICENSE](LICENSE) file for details.
 
 ---
 
-🤝 Contributing
+## 🤝 Contributing  
 Contributions are welcome! Feel free to fork the repo and submit pull requests to improve the app.
+
 
 ---
 
