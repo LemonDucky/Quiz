@@ -55,7 +55,7 @@
 
 3. **▶️ Run the App**  
    ```bash
-   python QUIZ_APP.py
+   python "2. QUIZ_APP.py"
 
 
 ---
