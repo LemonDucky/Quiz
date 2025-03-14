@@ -28,6 +28,19 @@ An advanced **Tkinter-based Quiz Application** supporting **Images, PDFs**, and 
 
 ---
 
+# Project Name
+
+## Table of Contents
+1. [Overview](#overview)
+2. [Installation](#installation)
+3. [Run the App](#run-the-app)
+4. [License](LICENSE)
+5. [Source Code](QUIZ_APP.py)
+6. [Executable](Quiz.exe)
+
+
+---
+
 ## 🚀 Getting Started
 
 ### 📦 Installation
