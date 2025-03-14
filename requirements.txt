@@ -1,1 +1,7 @@
+tk
+PyPDF2
+Pillow
+pdf2image
+reportlab  # If you need to create PDFs
+
 
