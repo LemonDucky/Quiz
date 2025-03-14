@@ -45,7 +45,7 @@
 1. **Clone the repo:**
    ```bash
    git clone https://github.com/LemonDucky/QuizApp.git
-   cd ImagePDFQuizApp
+   cd Quiz_App
 
 
 2. **Install dependencies**  
