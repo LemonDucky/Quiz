@@ -1,15 +1,26 @@
+# Quiz Application 📝
+
 <p align="center">
   <img src="https://img.shields.io/badge/Made%20with-Python%203.10-blue.svg" alt="Python">
   <img src="https://img.shields.io/badge/GUI-Tkinter-lightgrey.svg" alt="Tkinter GUI">
-  <img src="https://img.shields.io/badge/License-MIT-brightgreen.svg" alt="MIT License">
+  <img src="https://img.shields.io/badge/License-GPL--3.0-brightgreen.svg" alt="GPL-3.0 License">
   <img src="https://img.shields.io/badge/Platform-Windows%20%7C%20Linux-blueviolet.svg" alt="Platform">
   <img src="https://img.shields.io/badge/PDF%20Support-Yes-important.svg" alt="PDF Support">
   <img src="https://img.shields.io/badge/Image%20Support-Yes-critical.svg" alt="Image Support">
 </p>
 
-# Quiz Application 📝
+---
 
-An advanced **Tkinter-based Quiz Application** supporting **Images, PDFs**, and **Text Answers**, with multi-section navigation, answer saving, review marking, and countdown timer.
+## 📑 Table of Contents
+
+1. [Features](#-features)
+2. [Getting Started](#-getting-started)
+3. [Installation](#-installation)
+4. [Usage](#-usage)
+5. [Tech Stack](#-tech-stack)
+6. [License](#-license)
+7. [Contributing](#-contributing)
+8. [Contact](#-contact)
 
 ---
 
@@ -25,20 +36,6 @@ An advanced **Tkinter-based Quiz Application** supporting **Images, PDFs**, and 
 - ✅ Save/Load complete session
 - ✅ Modern, intuitive UI
 
-
----
-
-# Project Name
-
-## Table of Contents
-1. [Overview](#overview)
-2. [Installation](#installation)
-3. [Run the App](#run-the-app)
-4. [License](LICENSE)
-5. [Source Code](QUIZ_APP.py)
-6. [Executable](Quiz.exe)
-
-
 ---
 
 ## 🚀 Getting Started
@@ -49,6 +46,7 @@ An advanced **Tkinter-based Quiz Application** supporting **Images, PDFs**, and 
    ```bash
    git clone https://github.com/your-username/QuizApp.git
    cd ImagePDFQuizApp
+
 
 2. **Install dependencies**  
    ```bash
