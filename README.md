@@ -44,7 +44,7 @@
 
 1. **Clone the repo:**
    ```bash
-   git clone https://github.com/your-username/QuizApp.git
+   git clone https://github.com/LemonDucky/QuizApp.git
    cd ImagePDFQuizApp
 
 
